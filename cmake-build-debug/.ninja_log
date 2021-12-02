@@ -1,0 +1,11 @@
+# ninja log v5
+1	445	6601528255328682	CMakeFiles/AdventOfCode2021.dir/main.cpp.obj	da397718fab3a7e7
+447	656	6601528257401963	AdventOfCode2021.exe	4e4bd8bafc367139
+4	790	6601537060477286	CMakeFiles/AdventOfCode2021.dir/main.cpp.obj	da397718fab3a7e7
+791	978	6601537062307584	AdventOfCode2021.exe	4e4bd8bafc367139
+4	462	6601543179808711	CMakeFiles/AdventOfCode2021.dir/main.cpp.obj	da397718fab3a7e7
+463	639	6601543181540599	AdventOfCode2021.exe	4e4bd8bafc367139
+3	431	6601549738211197	CMakeFiles/AdventOfCode2021.dir/main.cpp.obj	da397718fab3a7e7
+432	625	6601549740150563	AdventOfCode2021.exe	4e4bd8bafc367139
+3	414	6601554167199919	CMakeFiles/AdventOfCode2021.dir/main.cpp.obj	da397718fab3a7e7
+415	589	6601554168911118	AdventOfCode2021.exe	4e4bd8bafc367139
