@@ -65,4 +65,8 @@ class Day03:
 
 day = Day03()
 print(f'Result part 1: {day.part_one()}')
+<<<<<<< HEAD
 print(f'Result part 2: {day.part_two()}')
+=======
+print(f'Result part 2: {day.part_two()}')
+>>>>>>> origin/master
